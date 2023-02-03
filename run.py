@@ -1,6 +1,7 @@
 import pickle
 import streamlit as st
 import base64
+import sklearn
 
 def add_bg_from_local(image_file):
     with open(image_file, "rb") as image_file:
