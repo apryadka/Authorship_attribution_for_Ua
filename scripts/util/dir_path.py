@@ -1,0 +1,6 @@
+DATA = 'data/authors'
+DATA_TXT = 'output/txt'
+DATA_CSV = 'output/csv'
+STOPWORDS = 'data/stopwords_ua_list.txt'
+MODELS = 'output/model'
+IMG = 'output/img'
