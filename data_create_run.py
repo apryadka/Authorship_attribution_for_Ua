@@ -1,4 +1,3 @@
-from scripts.data.dataFrame_clean import clean_authors_works_dataFrame
 from scripts.data.dataFrame_create import create_authors_works_files, create_authors_works_dataFrame
 from scripts.util.dir_path import DATA_CSV
 from scripts.util.read_csv_ui import show_csv
